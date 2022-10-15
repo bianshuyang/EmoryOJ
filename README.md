@@ -20,4 +20,4 @@ Please see the webpage for more trials.
 A submission page should look like the following:
 <img width="924" alt="image" src="https://user-images.githubusercontent.com/52821055/195997746-53499b2f-8e0a-44b2-a44b-72741b1cb5f2.png">
 (https://open.kattis.com/)
-The sole purpose of the project is to pull from an existing open-source software and update so one can learn the process of web development without developing much of the actual code. 
+Some statuses are provided, and the results is shown to the user. The sole purpose of the project is to pull from an existing open-source software and update so one can learn the process of web development without developing much of the actual code. 
